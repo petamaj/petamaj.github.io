@@ -1,6 +1,6 @@
-var a = "majpetr";
+var a = "peta.maj82";
 var b = "@";
-var c = "fit.cvut.cz";
+var c = "gmail.com";
 (function(email) {
     document.write("<a href=\"mailto:" + email + "\">" + email + "</a>");
 })(a + b + c)
